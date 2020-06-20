@@ -4,6 +4,7 @@
 
 ## Analytics
 
+- [userTrack](https://www.usertrack.net/) `⊘ Proprietary` - userTrack is a web analytics platform with heatmaps, session recordings and powerful user segmentation feature. Updated very regularly. ([Demo](http://dashboard.usertrack.net/)) `PHP/MySQL/ReactJS`
 - [UXLens](https://uxlens.com/) `⊘ Proprietary` - UXLens is a website visitor recording software meant for identifying UI issues and fix them to improve user experience. Formerly known as SessionRecord ([Demo](https://console.uxlens.com/test)) `Docker Nodejs`
 
 
@@ -32,7 +33,7 @@
 ## Federated Identity/Authentication
 
 - [Auth0](https://auth0.com/docs/appliance): `⊘ Proprietary`. Identity made simple for developers. `NodeJS`
-
+- [FusionAuth](https://fusionauth.io) `⊘ Proprietary` - Authentication and Authorization built for devs with OAuth2 and SAMLv2 support. Free as in beer. `Java`
   
 ## File Sharing and Synchronization
 
@@ -54,7 +55,7 @@
 
 ## Maps & GPS
 
-- [OpenMapTiles Server](https://openmaptiles.org/) `⊘ Proprietary` - Set of tools for self-hosting of OpenStreetMap vector tiles. ([Demo](https://openmaptiles.org/), [Partial Source Code](https://github.com/openmaptiles)) `Python/JavaScript`
+- [OpenMapTiles Server](https://openmaptiles.org/) `⊘ Proprietary` - Set of tools for self-hosting of OpenStreetMap vector tiles. ([Partial Source Code](https://github.com/openmaptiles)) `Python/JavaScript`
 
 ## Media Streaming
 
@@ -82,7 +83,7 @@
   
 ## Project Management
 - [Active Collab](https://www.activecollab.com/) `⊘ Proprietary` - Project management - `PHP`
-- [Duet](https://duetapp.com/) `⊘ Proprietary` - Invoicing and project management with an integrated client portal. ([Demo](https://duetapp.com/demo/#dashboard)) `PHP`
+- [Duet](https://duetapp.com/) `⊘ Proprietary` - Invoicing and project management with an integrated client portal. ([Demo](https://duetapp.com/start-demo)) `PHP`
 - [Kantree](https://kantree.io) `⊘ Proprietary` - Work management and collaboration - `Python`
 - [Solo](http://www.getsoloapp.com/) - Solo is a free project management app created for freelancers. Create contacts, manage tasks, upload files, track project progress, and keep notes. ([Demo](http://www.getsoloapp.com/demo/)) `PHP`
 
@@ -91,7 +92,7 @@
 - [Axigen](https://www.axigen.com/mail-server/free/) `⊘ Proprietary` -  Great alternative to open source. It's a turnkey messaging solution, perfect for small & micro businesses, integration projects or test environments.
 - [Cloudron](https://cloudron.io) `⊘ Proprietary` - Open-core software allowing you to effortlessly self-host web apps on your server. ([Source Code](https://git.cloudron.io/groups/cloudron)) `Nodejs/Docker`
 - [hMailServer](https://www.hmailserver.com) `⊘ Proprietary` - Open source e-mail server for Microsoft Windows. ([Source Code](https://github.com/hmailserver/hmailserver)) `C++`
-- [Poste.io](https://poste.io) `⊘ Proprietary` - Full featured solution for your Email server. Native implementation of last anti-SPAM methods, webmail and easy administration included. Free tier available. ([Demo](https://poste.io/admin/login#admin@poste.io;admin))
+- [Poste.io](https://poste.io) `⊘ Proprietary` - Full featured solution for your Email server. Native implementation of last anti-SPAM methods, webmail and easy administration included. Free tier available. ([Demo](https://poste.io/demo))
 
   
 ## Software Development
@@ -106,7 +107,6 @@
 - [JIRA](https://www.atlassian.com/software/jira) `⊘ Proprietary` - A professional and extensible issue tracker `Java`
 - [RhodeCode](https://rhodecode.com) `⊘ Proprietary` - On-premise Source Code Management for Mercurial, Git & Subversion. `Python`
 - [BitBucket Server](https://www.atlassian.com/software/bitbucket/server) `⊘ Proprietary` - An enterprise-level Git solution similar to GitLab `Java`
-
   
 ## Ticketing
 - [Full Help](https://www.fullhelp.com/en/) `⊘ Proprietary` - Simple, easy to use help desk & knowledge base software. Custom branding, custom themes, restful API, communication channels, multi-company support, multi-language support, and much more! At least 1 new release per month. [Changelog](https://www.fullhelp.com/en/changelog) `PHP`
